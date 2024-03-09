@@ -9,7 +9,7 @@ I'm a Data Science and Machine Learning professional with over 5 years of hands-
 I'm currently working on GenAI projects, but also looking research opportunities regarding AI and GenAI technologies. If you're interested, please contact me.
 
 
-Key Highlights of my Career
+**Career Highlights**
 
 * I have created multple projects that uses novel approach to the problems, such as experimenting with Time Series Classification or creating Hybrid Recommendation Model.
 * I have mentored data science enthusiasts on topics of Statistics and Mathematics.
@@ -17,9 +17,9 @@ Key Highlights of my Career
 * I've done multiple End-to-End Projects on various use cases such as classification, Image Generation, Text Summarizer and Regression.
 * Check out my Projects: [Machine Learning and AI Projects](https://github.com/adhtani?tab=repositories)
 
-Fun Fact
+**Fun Fact**
 
-I am an avid traveler and love to do adventurous activites such as bungee jumping, rafting, surfing and hiking. 
+I am an avid traveler and love to do adventurous activites such as bungee jumping, rafting, surfing and hiking. Countries visited: Canada, Peru, Mexico, U.K, Iceland, Dubai, India, Nepal, still counting...
 
 
 ________________________________________________________________________________________________________________________________________________________________________________
