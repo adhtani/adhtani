@@ -19,7 +19,8 @@ I'm currently working on GenAI projects, but also looking research opportunities
 
 **Fun Fact**
 
-I am an avid traveler and love to do adventurous activites such as bungee jumping, rafting, surfing and hiking. Countries visited: Canada, Peru, Mexico, U.K, Iceland, Dubai, India, Nepal, still counting...
+I am an avid traveler and love to do adventurous activites such as bungee jumping, rafting, surfing and hiking. Countries visited:   
+Canada, Peru, Mexico, U.K, Iceland, Dubai, India, Nepal, still counting...
 
 
 ________________________________________________________________________________________________________________________________________________________________________________
