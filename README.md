@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Data Science and Machine Learning professional with over 5 years of hands-on experience. My passion towards Statistics and Mathematics is what drives me to be an AI professional. I hold B.S in Statistics, B.S in Mathematics and M.S in Data Science. I have experience in applying ML algorithm and Data Science techniques to solve complex business problems. I am currently researching topics regarding Deep learning and GenAI.     
+I'm a Data Science and Machine Learning professional with over 5 years of hands-on experience. My passion towards Statistics and Mathematics is what drives me to be an AI professional. I hold M.S in Data Science, B.S in Mathematics and B.S in Statistics. I have experience in applying ML algorithms and Data Science techniques to solve complex business problems. I am currently researching topics regarding Deep learning and GenAI.     
 
 * You can find me on [LinkedIn](https://www.linkedin.com/in/taniya-dutta/) and do follow me :)
 * I also mentor data science beginners and professionals you can [Email](mailto:t.dutta.adhikari@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)  
